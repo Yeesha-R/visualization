@@ -11,24 +11,21 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      
+      The “Average Miles Traveled, By Sport” (https://www.columnfivemedia.com/work/ncsa-how-far-do-college-athletes-travel-to-play/) chart can be clasified as a good visualization because it has several strong qualities. In terms of accuracy, the bar chart uses a common baseline, which helps viewers compare values easily and precisely. It is also perceptually effective because the bars have regular shapes and clear lengths, making differences between categories easy to see. The visualization is efficient in size because it presents ten categories in a compact and organized way without appearing crowded. In terms of aesthetics, the chart uses a simple color scheme and clearly distinguishes between men's and women's sports while maintaining readability. The chart also has strong substantive value because the visual design supports the message instead of distracting viewers. The information can be understood quickly, and the ordering of the bars helps viewers identify the highest and lowest values. Finally, the chart is highly reproducible because it can be recreated easily using the numerical data in most charting tools. Overall, the chart is clear, accurate, visually appealing, and effective at communicating information.
 
-
-
-
-
-
-
+      The “Does More Education Mean Healthier Teeth?” (https://datavizproject.com/data-type/bar-chart/good.is) inforgraphic can be classified as a poor visualization despite being visually attaractive. One of its main weaknesses is its low perceptual effectiveness. The toothpaste-shaped graphics make it difficult to compare percentages accurately because viewers must estimate heights along curved and irregular shapes rather than compare simple bars. In terms of aesthetics, the decorative design attracts attention but reduces analytical clarity. The visual representation may also exaggerate differences between categories because the shapes vary in size and visual prominence. The infographic is inefficient in size because it uses a large amount of space to communicate only four percentage values. Another weakness is the unnecessary repetition of information. The percentages are already written above each toothpaste tube, and a vertical axis from 0% to 100% is also provided. The infographic also contains unnecessary repetition. The percentages are already displayed as labels and supported by the vertical axis, yet the toothpaste streams are used to represent the same values again. This means the information is shown multiple times without adding new insight. The extra visual elements create clutter and increase cognitive effort for the viewer. As a result, the design focuses more on decoration than data, reducing clarity, efficiency, and overall effectiveness.
       ```
+
+      
     - How could this data visualization have been improved?  
       ```
       Your answer...
 
+      For the “Average Miles Traveled, By Sport” (https://www.columnfivemedia.com/work/ncsa-how-far-do-college-athletes-travel-to-play/) chart, using horizontal bars instead of vertical bars could make the sport names easier to read.
 
-
-
-
-
-      
+      For “Does More Education Mean Healthier Teeth?” (https://datavizproject.com/data-type/bar-chart/good.is), the infographic could be improved by replacing the toothpaste-shaped graphics with a simple bar chart. A bar chart would allow viewers to compare the percentages more accurately using a common baseline. The design should also reduce unnecessary repetition by showing the data only once, rather than through the axis, percentage labels, and toothpaste shapes. Removing excessive decorative elements would reduce visual clutter and improve readability. These changes would make the visualization clearer, more efficient, and easier to interpret while still communicating the relationship between education level and dental health.
+     
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
